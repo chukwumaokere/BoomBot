@@ -1,8 +1,8 @@
-#SoundBot (BoomBot)
+# SoundBot (BoomBot)
 A soundbot for discord. 
 
 Copy the contents of app.propertiestemplate to a new file named "app.properties" and update it with your information
-#Usage: 
+# Usage: 
 Message !help to the bot for this info: 
 
 !list             - Returns a list of available sound files.
@@ -14,7 +14,7 @@ Message !help to the bot for this info:
 !summon           - Summon the bot to your channel.
 !info             - Returns info about the bot.
 
-#app.properties
+# app.properties
 See app.properties
 Update "bot_token" to your bots token and "username_to_join_channel" to the server owners username.
 If you want to change what calls the bot, update "command_character"
