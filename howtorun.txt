@@ -1,0 +1,1 @@
+nohup java -Dserver.port=8080 -jar /home/cokere/DiscordSoundboardbeta2/DiscordSoundboard.jar /tmp 2>> /dev/null >> /dev/null
